@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tien Tran</h1>
-<h3 align="center">A front-end developer from California</h3>
+<h3 align="center">Software Developer</h3>
 
 - 🔭 I’m currently working on [A Brazilian jiu-jitsu website + mobile app](https://github.com/arsonistAnt/bjj-app)
 
